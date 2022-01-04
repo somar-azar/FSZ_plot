@@ -6,6 +6,7 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - ipywidgets>=7.6  
   - dill
   - pandas
   - partd
