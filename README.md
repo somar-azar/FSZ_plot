@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/v2/gh/somar-azar/abz_plot/master?filepath=plot.ipynb)
+[![Binder](https://mybinder.org/v2/gh/somar-azar/abz_plot/master?filepath=plot.ipynb)]
 
 A Binder-compatible repo with an `environment.yml` file.
 
