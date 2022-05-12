@@ -12,3 +12,5 @@ dependencies:
   - bokeh
   - dask
   - ipympl
+  - sklearn
+  - scipy
